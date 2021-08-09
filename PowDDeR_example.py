@@ -1,5 +1,5 @@
 from adaptive_capacity_resilience import *
-from PowDDeR_plots import *
+from PowDDeR_plot_functions import *
 
 # Note:
 # Time of the adaptive capacity calculation is set in adaptive_capacity_resilience (line 225)
