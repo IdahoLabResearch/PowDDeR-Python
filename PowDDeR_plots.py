@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 import numpy as np
-from helper_functions import *
 
 def plot_domain(self):
 	"""2D plot of the domain limit"""
