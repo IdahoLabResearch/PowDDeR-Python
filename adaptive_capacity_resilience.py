@@ -1,5 +1,4 @@
 import numpy as np
-from PowDDeR_plots import *
 
 # Notes:
 #	- Need to add try/except
